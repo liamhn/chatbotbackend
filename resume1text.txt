@@ -1,0 +1,88 @@
+This is the text from Liam's resume:
+
+Liam Haas-Neill                   
+Toronto, Canada              
+647-515-6861   –    liamhaasneill@gmail.com 
+Computational Biophysicist | Machine Learning Researcher | Python Developer 
+QUALIFICATION SUMMARY 
+PhD in computational biophysics with extensive experience in Python, data analysis, and machine 
+learning. Experienced in biomolecular simulations and developing pipelines for analyzing protein 
+structural and dynamics data. Published protein science researcher with a strong background in 
+interdisciplinary problem-solving and collaboration with cross-functional teams. Experienced with 
+developing machine learning models for automating workflows. A lifelong learner, eager and excited to 
+continue learning new skills, hone existing skills, and apply them to solving new problems. 
+EDUCATION 
+PhD in Physics            
+MSc in Physics            
+HBSc in Physics       
+RELEVANT PROFESSIONAL EXPERIENCE 
+University of Toronto, Toronto, 2025 
+University of Toronto, Toronto, 2018 
+University of Toronto, Toronto, 2017 
+Machine Learning Researcher 
+RWDI – Independent Contractor, 2025 – Current 
+My role was to automate engineer workflows using predictive modelling including both regression, 
+classification tasks, and heuristics. 
+• Led initiatives to preprocess, clean, and engineer features from large datasets using Python. 
+• Collaborated with cross-functional teams (engineering, product management, software 
+developers) to identify key pain points in workflows to be automated. 
+• Designed and implemented machine learning pipelines, leveraging frameworks such as PyTorch, 
+scikit-learn, and xgboost. 
+• Research and development of methods for machine learning of 3D structures of buildings 
+Computational Biophysicist - Graduate Researcher 
+University of Toronto, Toronto, 2017-2025 
+My work involved performing simulations on high performance computing systems, analyzing 
+biomolecular simulations in python, and communicating findings in scientific journals  
+• Designed and executed large-scale molecular simulations to study protein dynamics in diseases 
+such as cancer and HIV 
+• Specific focus on protein-protein interactions in the context of disease mutations and on protein
+polymer interactions and their effect on protein structure and dynamics 
+• Developed Python scripts for analysis protein structure & dynamics data from simulations 
+• Published 3 peer-reviewed articles, including in Nature Communications and Protein Science, 
+showcasing impactful research findings 
+• Collaborated with interdisciplinary teams of biologists, chemists, and physicists to cross-validate 
+simulation and experimental results 
+• Developed visualizations of protein structure, and structural analyses to clearly communicate 
+research findings  
+KEY SKILLS 
+Programming: Python, NumPy, Pandas, Matplotlib, C++, Linux, Windows, HPC 
+Biotechnology: Molecular dynamics simulations, MDAnalysis (Python), MDTraj (Python), 
+BioPython, SwissModel, Modeler, Homology Modeling, Visual Molecular Dynamics (VMD), 
+ChimeraX, CHARMMGUI, Multiple Sequence Alignment, GROMACS 
+Machine Learning: Sci-kit Learn, Keras, PyTorch, Azure AI 
+SELECTED PUBLICATIONS 
+1. Haas-Neill L, Meneksedag-Erol D, Chaudhry A, Novoselova M, Ashraf QF, de Araujo ED, et 
+al. (2025). The structural influence of the oncogenic driver mutation N642H in the STAT5B SH2 
+domain. Protein Science. https://doi.org/10.1002/pro.70022 
+2. Haas-Neill, L., Joron, K., Lerner, E., & Rauscher, S. (2025). PEG-mCherry interactions beyond 
+classical macromolecular crowding. Protein Science. https://doi.org/10.1002/pro.5235 
+3. Joron, K., Viegas, J.O., Haas-Neill, L. et al (2023). Fluorescent protein lifetimes report densities and 
+phases of nuclear condensates during embryonic stem-cell differentiation. Nature Communications. 
+https://doi.org/10.1038/s41467-023-40647-6 
+4.  Haas-Neill, L., Meneksedag-Erol, D. et. Al (2024).  An all-atom view into the disordered interaction 
+interface of the TRIM5α PRYSPRY domain and the HIV capsid. bioRxiv. 
+https://doi.org/10.1101/2024.12.06.627233 
+CONFERENCES 
+Biophysical Society Annual Meeting: 2019, 2020, 2023, 2024 
+Biophysical Society of Canada Annual Meeting: 2019, 2020, 2023 
+World Association of Theoretical and Computational Chemists (WATOC): 2020 
+PyCon: 2019 
+ACADEMIC AWARDS, HONORS, AND SCHOLARSHIPS 
+Biophysical Society of Canada Poster Award      
+E. F. Burton Fellowships in Physics        
+Faculty Of Arts and Science Program-level Fellowship     
+Dr. James A. & Connie P. Dickson Scholarship In Science & Mathematics    
+C. L. Burton Scholarship for Mathematics and Physical Sciences    
+Howard Ferguson Provincial Scholarship             
+Fletcher-clark Scholarships in Science And Economics     
+University of Toronto Entrance Scholarship       
+OTHER INTERESTS 
+2022 
+2021 
+2021 
+2015, 2017 
+2016 
+2013, 2015, 2016 
+2015 
+2013 
+Piano, singing, music production, volleyball, running, weightlifting, canoeing, camping, hiking 
