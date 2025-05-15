@@ -7,7 +7,7 @@ import numpy as np
 import os
 
 # Load Groq API key from environment
-GROQ_API_KEY = os.getenv("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")
+GROQ_API_KEY = os.getenv("GROQ_SPI_KEY")
 
 app = FastAPI()
 
