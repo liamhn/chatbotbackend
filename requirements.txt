@@ -1,6 +1,7 @@
 fastapi
 uvicorn
 requests
+sentence-transformers
 faiss-cpu
 requests
 python-dotenv
